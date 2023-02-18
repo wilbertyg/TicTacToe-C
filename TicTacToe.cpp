@@ -1,6 +1,3 @@
-//Nama: Wilbert Yang
-//NIM: 2602093802
-//		2D ARRAY EXERCISE: CREATE A SIMPLE TIC TAC TOE ON 3x3 GRID
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
